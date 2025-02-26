@@ -19,6 +19,16 @@ Importance of Software Engineering
 
 
 Identify and describe at least three key milestones in the evolution of software engineering.
+Software engineering has evolved significantly over the years, with key milestones shaping the field. Here are three important ones:
+
+The Birth of Software Engineering (1968 - NATO Conference)
+The term software engineering was first introduced at a NATO conference in 1968 to address the "software crisis." At the time, software development was highly unstructured, leading to unreliable and costly systems. This conference emphasized the need for systematic engineering principles in software development, paving the way for methodologies like structured programming and software lifecycle models.
+
+The Rise of Object-Oriented Programming (1970s - 1980s)
+The introduction of Object-Oriented Programming (OOP) revolutionized software development by promoting modularity, reusability, and maintainability. Languages like Smalltalk, C++, and later Java popularized OOP concepts such as classes, inheritance, and polymorphism. This shift allowed developers to build more complex and scalable applications while improving code organization.
+
+The Agile Manifesto (2001)
+In response to the inefficiencies of traditional Waterfall methodologies, a group of software developers introduced the Agile Manifesto in 2001. Agile emphasized iterative development, customer collaboration, and responsiveness to change. This milestone led to widespread adoption of frameworks like Scrum and Kanban, which continue to dominate modern software development practices.
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
