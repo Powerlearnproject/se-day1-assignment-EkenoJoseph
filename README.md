@@ -32,6 +32,19 @@ In response to the inefficiencies of traditional Waterfall methodologies, a grou
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
+Planning – This phase involves defining the project scope, objectives, budget, and timeline. Feasibility studies and risk assessments are conducted to ensure the project's viability.
+
+Requirement Analysis – Developers and stakeholders gather and document functional and non-functional requirements. This phase ensures a clear understanding of what the software should accomplish.
+
+Design – System architecture and software design are created based on the requirements. This includes UI/UX design, database structures, and overall system flow.
+
+Implementation (Coding) – Developers write and implement the actual code based on the design specifications. This phase transforms the planned system into a functional software product.
+
+Testing – The software undergoes rigorous testing to identify and fix bugs. Unit testing, integration testing, and user acceptance testing (UAT) ensure quality and functionality.
+
+Deployment – The tested software is released for use. It may be deployed in phases (incremental rollout) or fully launched, depending on the project's strategy.
+
+Maintenance – After deployment, the software is monitored for issues, updates, and improvements. Bug fixes, security patches, and enhancements are made as needed.
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
